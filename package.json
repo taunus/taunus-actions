@@ -1,0 +1,15 @@
+{
+  "name": "taunus-actions",
+  "version": "1.0.0",
+  "description": "Link controllers and models to partials with [data-taunus-*] properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JC Ivancevich <jc.ivancevich@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "breadcrumb": "^1.0.0",
+    "dominus": "^5.0.2"
+  }
+}
