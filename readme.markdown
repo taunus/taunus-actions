@@ -1,6 +1,6 @@
 # taunus-actions
 
-> Link controllers and models to partials with [data-taunus-*] properties
+> Link controllers to partials and (optionally) limit the scope of the viewModel
 
 # Install
 
